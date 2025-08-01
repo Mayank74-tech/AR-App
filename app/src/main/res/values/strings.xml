@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ARApp</string>
+    <string name="drill_1">Drill 1</string>
+        <string name="drill_2">Drill 2</string>
+        <string name="drill_3">Drill 3</string>
+        <string name="invalid_drill_selection">Please select a valid drill</string>
+        <string name="error_launching_ar">Error launching AR experience</string>
+    </resources>
