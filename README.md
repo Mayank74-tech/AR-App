@@ -1,4 +1,4 @@
-Overview
+
 This Android application demonstrates an Augmented Reality (AR) experience for visualizing different drill types in 3D space. The app allows users to select a drill type from a spinner and then view it in AR by placing it on detected surfaces.
 
 Prerequisites
